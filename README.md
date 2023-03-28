@@ -1,5 +1,5 @@
-# Dia_81
-Encuentro Día 81 de Herencias - Ejercicio 3 y Ejercicio Extra 1
+# Dia_86
+Encuentro Día 86 de Excepciones - Ejercicio 1-3
 <dbr>
 <br>
 Para su ejecución, es necesario incluir la librería que se detalla a continuación, en ella se encuentra todos las Entidades (Objetos), Servicios y 
